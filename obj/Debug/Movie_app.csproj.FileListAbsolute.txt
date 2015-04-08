@@ -1,0 +1,9 @@
+\\psf\home\documents\visual studio 2013\Projects\Movie_app\Movie_app\bin\Debug\Movie_app.exe.config
+\\psf\home\documents\visual studio 2013\Projects\Movie_app\Movie_app\bin\Debug\Movie_app.exe
+\\psf\home\documents\visual studio 2013\Projects\Movie_app\Movie_app\bin\Debug\Movie_app.pdb
+\\psf\home\documents\visual studio 2013\Projects\Movie_app\Movie_app\obj\Debug\Movie_app.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\Movie_app\Movie_app\obj\Debug\Movie_app.Form1.resources
+\\psf\home\documents\visual studio 2013\Projects\Movie_app\Movie_app\obj\Debug\Movie_app.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\Movie_app\Movie_app\obj\Debug\Movie_app.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\Movie_app\Movie_app\obj\Debug\Movie_app.exe
+\\psf\home\documents\visual studio 2013\Projects\Movie_app\Movie_app\obj\Debug\Movie_app.pdb
